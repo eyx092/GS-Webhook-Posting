@@ -23,7 +23,7 @@ After that, you want to click on the button that says "Create Webhook". Your scr
 Now you want to open a Google Apps Script project in Google Drive. Click the New button, then hover over the More option. An option for a Google Apps Script should pop up. Click on that, and you should now see an editor that looks like this:
 
 <p align="center">
-  <img src="https://github.com/eyx092/GS-Webhook-Posting/blob/main/Untitled%20drawing.png" alt="Monkey face" style="width: 100%; height: auto;">
+  <img src="https://github.com/eyx092/GS-Webhook-Posting/blob/main/resize-image.png" alt="Monkey face" style="width: 100%; height: auto;">
 </p>
 
 Copy and paste the code from the [script.gs](https://github.com/eyx092/GS-Webhook-Posting/blob/main/script.gs) file into the editor. Now click on the blue button that says Deploy. You should now see three options: New Deployment, Manage Deployments, and Test Deployments. Click on the New Deployment option. You should now see a screen that looks like this:
