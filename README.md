@@ -1,8 +1,10 @@
 # GS-Webhook-Posting
-Google Apps Script for sending messages through a webhook on Discord. Original code is from: https://www.labnol.org/code/20563-post-message-to-discord-webhooks, but I corrected some problems with the code.
+
+A Google Apps Script for sending messages through a webhook on Discord.
 
 ---
-This repository was created to show you how to setup a webhook in Discord, then post messages with it using a Google Apps Script. Again, the code was taken from this article: https://www.labnol.org/code/20563-post-message-to-discord-webhooks, but there were some errors that I corrected.
+
+This repository was created to show you how to setup a webhook in Discord, then post messages with it using a Google Apps Script. The code was taken from this article: https://www.labnol.org/code/20563-post-message-to-discord-webhooks, but there were some errors that I corrected.
 
 ## Creating the Webhook on Discord
 
